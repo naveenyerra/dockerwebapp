@@ -167,7 +167,7 @@
     </dependencies>
 	<distributionManagement>
     <repository>
-        <id>nexus</id>
+        <id>myrepo</id>
         <name>My Nexus Repository</name>
         <url>http://52.55.224.90:8081/repository/my-nexus/</url>
     </repository>
