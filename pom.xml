@@ -167,11 +167,10 @@
     </dependencies>
 	<distributionManagement>
     <repository>
-        <id>nexus</id>
-        <name>My Nexus Repository</name>
-        <url>http://52.55.224.90:8081/repository/my-nexus/</url>
-    </repository>
-</distributionManagement>
+		<id>my-nexus</id>
+		<url>http://3.86.38.203:8081/repository/my-project/</url>
+	</repository>
+	</distributionManagement>
      <build>
     <plugins>
 
